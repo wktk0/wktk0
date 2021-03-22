@@ -2,6 +2,10 @@
 
 So YAMAGUCHI a.k.a wktk0
 
+
+**role**  
+Growth Engineer/Engineering Manager
+
 **Skill**  
 SQLやtableauなどのBI業務, 原因究明や指標策定のための分析業務
 GoやJava(Spring)を用いたAPI設計, 検索全般の開発, 人並みな機械学習モデリング, 動画配信ドメイン, マネジメント業務
