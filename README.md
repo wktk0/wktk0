@@ -14,7 +14,7 @@ So YAMAGUCHI a.k.a wktk0
   - Data Scientist(2019.04 - 2019.12, 2021.07 - 2021.09)
   - Growth Engineer(2020.01 - 2021.06)
   - Engineering Manager (2021.01 - 2021.06)
-- み ,Subcontracting, 2021.07 - 現在
+- み ,Subcontracting, 2021.07 - 2022.08
   - Data Scientist 
 - ABEMA, Research Intern, 2018.04 - 2019.03
 - Dwango, Research Intern, 2017.08 - 2018.03
